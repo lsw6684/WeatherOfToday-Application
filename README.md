@@ -2,5 +2,5 @@
 ### Including
 - node
 - npm
-- expo CLI
+- expo CLI (***for test***)
 - Android Studio
