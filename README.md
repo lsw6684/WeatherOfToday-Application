@@ -1,4 +1,4 @@
-# WeatherOfToday_Web&MobileApp
+# WeatherOfToday_Application
 ### Including
 - node
 - npm
