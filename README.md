@@ -1,5 +1,5 @@
 # WeatherOfToday_ReactNative
-### Includeing
+### Including
 - node
 - npm
 - expo CLI
