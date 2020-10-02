@@ -1,4 +1,4 @@
-# WeatherOfToday_ReactNative
+# WeatherOfToday_Web&MobileApp
 ### Including
 - node
 - npm
