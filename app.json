@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fokin-weather",
-    "slug": "fokin-weather",
+    "name": "Weather of today",
+    "slug": "weather-of-today",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "You can get information about the weather of today.",
+    "githubUrl": "https://github.com/lsw6684/WeatherOfToday_Application"
   }
 }
